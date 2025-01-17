@@ -88,9 +88,6 @@ Here are some tools and technologies I’ve worked with:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anushameena-S&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anushameena-S&theme=radical&hide_border=true)
-
-
 
 ---
 
