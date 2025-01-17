@@ -44,7 +44,7 @@ Here are some tools and technologies I’ve worked with:
 ## 🌐 Connect with Me
 - 💼 [LinkedIn](https://linkedin.com/in/anushameena-s)
 - 📧 [Email Me](mailto:anushameena22@gmail.com)
-- 🌍 [Portfolio](https://your-portfolio-link.com](https://anushameena-s.github.io/AnushaPortfolio/)
+- 🌍 [Portfolio](https://anushameena-s.github.io/AnushaPortfolio/)
 
 ---
 
