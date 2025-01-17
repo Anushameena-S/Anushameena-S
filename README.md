@@ -34,7 +34,6 @@ Welcome to my GitHub profile! I'm a passionate about software development and te
 ---
 
 ## 💻 Tech Stack
-# Tech Stack
 
 Here are some tools and technologies I’ve worked with:
 
