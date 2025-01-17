@@ -34,10 +34,35 @@ Welcome to my GitHub profile! I'm a passionate about software development and te
 ---
 
 ## 💻 Tech Stack
+# Tech Stack
+
 Here are some tools and technologies I’ve worked with:
-- **Languages**: C, C++, JAVA, J2EE, Python, HTML, CSS, JS.
-- **Frameworks & Libraries**: React js, Spring Boot, Flask, Selenium.
-- **Tools**: ALM, JIRA, Eclipse, Apache NetBeans, Jupyter Notebook, Git, Postman.
+
+### Languages
+![C](https://img.shields.io/badge/-C-3366CC?logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-3366CC?logo=C%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-FF9900?logo=Java&logoColor=white)
+![J2EE](https://img.shields.io/badge/-J2EE-FF9900?logo=Java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black)
+
+### Frameworks & Libraries
+![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=React&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=Spring-Boot&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=Flask&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=Selenium&logoColor=white)
+
+### Tools
+![ALM](https://img.shields.io/badge/-ALM-FF5733)
+![JIRA](https://img.shields.io/badge/-JIRA-0052CC?logo=Jira&logoColor=white)
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?logo=Eclipse&logoColor=white)
+![Apache NetBeans](https://img.shields.io/badge/-Apache%20NetBeans-1B6AC6?logo=Apache-NetBeans-IDE&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=Jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=Postman&logoColor=white)
+
 
 ---
 
