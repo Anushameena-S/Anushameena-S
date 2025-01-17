@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate about software development and te
 ---
 
 ## 🔭 Projects I'm Proud Of
-- 🌐 **[Online Book Store program]([https://github.com/Anushameena-S/project-repo-name](https://github.com/Anushameena-S/HTML-CSS-JS-Online-Book-Store-Program-.git))**: A online book store program named, "The Book Shop" is created using HTML, CS and JS.
+- 🌐 **[Online Book Store program]([https://github.com/Anushameena-S/project-repo-name](https://github.com/Anushameena-S/HTML-CSS-JS-Online-Book-Store-Program-.git))**: A online book store program named, "The Book Shop" web app is developed using HTML, CS and JS.
 - 📱 **[Web APP for Customer Details]([https://github.com/Anushameena-S/another-project-repo](https://github.com/Anushameena-S/SpringFrameworkParcticewithH2DB.git))**: Developed a web application for entering , updating , deleting and getting customer details using springboot framework (with MVC architecture and H2DB).
 - 💡 **[RAG Custom Chatbot]([https://github.com/Anushameena-S/idea-repo-name](https://github.com/Anushameena-S/RAG-Custom-Chatbot.git))**: Developed a custom chat bot using RAG (Retrieval-Augmented Generation) Framework.
 
