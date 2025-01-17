@@ -27,17 +27,17 @@ Welcome to my GitHub profile! I'm a passionate about software development and te
 ---
 
 ## 🔭 Projects I'm Proud Of
-- 🌐 **[Project Name](https://github.com/Anushameena-S/project-repo-name)**: A brief description of the project.
-- 📱 **[Another Project Name](https://github.com/Anushameena-S/another-project-repo)**: A short summary of this project.
-- 💡 **[Your Idea Here](https://github.com/Anushameena-S/idea-repo-name)**: An innovative project you’re working on or proud of.
+- 🌐 **[Online Book Store program]([https://github.com/Anushameena-S/project-repo-name](https://github.com/Anushameena-S/HTML-CSS-JS-Online-Book-Store-Program-.git))**: A online book store program name "The Book Shop" is created using HTML, CS and JS.
+- 📱 **[Web APP for Customer Details]([https://github.com/Anushameena-S/another-project-repo](https://github.com/Anushameena-S/SpringFrameworkParcticewithH2DB.git))**: Developed a web application for entering , updating , deleting and getting customer details using springboot framework (with MVC architecture and H2DB).
+- 💡 **[RAG Custom Chatbot]([https://github.com/Anushameena-S/idea-repo-name](https://github.com/Anushameena-S/RAG-Custom-Chatbot.git))**: Developed a custom chat bot using RAG.
 
 ---
 
 ## 💻 Tech Stack
 Here are some tools and technologies I’ve worked with:
-- **Languages**: Python, JavaScript, C++, etc.
-- **Frameworks & Libraries**: React, Django, Bootstrap, etc.
-- **Tools**: Git, Docker, Postman, etc.
+- **Languages**: C, C++, JAVA, J2EE, Python, HTML, CSS, JS.
+- **Frameworks & Libraries**: React js, Spring Boot, Flask, Selenium.
+- **Tools**: ALM, JIRA, Eclipse, Apache NetBeans, Jupyter Notebook, Git, Postman.
 
 ---
 
