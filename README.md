@@ -73,8 +73,24 @@ Here are some tools and technologies I’ve worked with:
 
 ---
 
-## 📊 GitHub Stats
-![Anushameena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anushameena-S&show_icons=true&theme=radical)
+# 📊 Most Used Languages
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushameena-S&layout=compact&langs_count=10&theme=radical)
+
+---
+
+# 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Anushameena-S&theme=radical&no-frame=true&row=1&column=7)
+
+---
+
+# 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anushameena-S&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Anushameena-S&theme=radical&hide_border=true)
+
 
 ---
 
