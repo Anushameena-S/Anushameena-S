@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate about software development and te
 
 ## 🌟 About Me
 - 🎓 **Education**: B.Tech in Computer Science from S.R.M University
-- 💼 **Current Role**: Sr. Testing Engineer
+- 💼 **Current Role**: Sr. Test Engineer
 - 🌱 **Currently Learning**: AI, Machine Learning, Deep Learning, Generative AI
 - ✨ **Hobbies**: Singing, Reading Books
 
